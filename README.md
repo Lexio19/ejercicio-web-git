@@ -69,3 +69,9 @@ $ git commit -m "Subo el archivo README.md"
 ~~~
 
 ### Creación del repositorio en GitHub
+
+## Se puede ver en la captura de pantalla en este enlace
+~~~
+capturas-pantalla-primer-proyecto-GitHub/creación repositorio ejercicio web git.png
+~~~
+

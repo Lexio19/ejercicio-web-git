@@ -75,5 +75,8 @@ $ git commit -m "Subo el archivo README.md"
 
 ![Captura de pantalla que demuestra la creación del repositorio](capturas-pantalla-primer-proyecto-GitHub/creación%20repositorio%20ejercicio%20web%20git.png)
 
+## Comprobación de que el repositorio se ha subido
+
+![Repositorio subido](capturas-pantalla-primer-proyecto-GitHub/comprobacion%20subido%20github.png)
 
 

@@ -72,7 +72,7 @@ $ git commit -m "Subo el archivo README.md"
 
 ## Se puede ver en la captura de pantalla en este enlace
 ~~~
-[![Captura de pantalla que demuestra la creación del repositorio](https://github.com/Lexio19/ejercicio-web-git/blob/master/capturas-pantalla-primer-proyecto-GitHub/creaci%C3%B3n%20repositorio%20ejercicio%20web%20git.png)]
+![Captura de pantalla que demuestra la creación del repositorio](https://github.com/Lexio19/ejercicio-web-git/blob/master/capturas-pantalla-primer-proyecto-GitHub/creaci%C3%B3n%20repositorio%20ejercicio%20web%20git.png)
 ~~~
 
 

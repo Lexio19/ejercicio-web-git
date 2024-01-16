@@ -84,3 +84,6 @@ $ git commit -m "Subo el archivo README.md"
 
 ![Repositorio configurado](capturas-pantalla-primer-proyecto-GitHub/repositorio%20configurado%20para%20que%20publique%20la%20carpeta%20master.png)
 
+
+## Mostrar los despliegues `deployments`
+![Deployments](capturas-pantalla-primer-proyecto-GitHub/deployments-github.png)

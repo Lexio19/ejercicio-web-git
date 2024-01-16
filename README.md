@@ -80,3 +80,7 @@ $ git commit -m "Subo el archivo README.md"
 ![Repositorio subido](capturas-pantalla-primer-proyecto-GitHub/comprobacion%20subido%20github.png)
 
 
+## Configurar el repositorio para que publique el directorio raíz en Github Pages
+
+![Repositorio configurado](capturas-pantalla-primer-proyecto-GitHub/repositorio%20configurado%20para%20que%20publique%20la%20carpeta%20master.png)
+

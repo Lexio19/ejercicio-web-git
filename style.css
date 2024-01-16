@@ -1,0 +1,12 @@
+h1 {
+    width: auto;
+    text-align: center;
+    color: red;
+    border: 1px solid grey;
+    padding: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: white;
+    border-left: 10px solid black;
+    border-top: 10px solid red ;
+}

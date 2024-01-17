@@ -70,7 +70,7 @@ $ git commit -m "Subo el archivo README.md"
 
 ### Creación del repositorio en GitHub
 
-## Se puede ver en la captura de pantalla en este enlace
+## Se puede ver en la captura de pantalla que se ha creado el repositorio y que es público desde el comienzo
 
 
 ![Captura de pantalla que demuestra la creación del repositorio](capturas-pantalla-primer-proyecto-GitHub/creación%20repositorio%20ejercicio%20web%20git.png)

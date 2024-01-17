@@ -86,3 +86,18 @@ tr {
     font-size: 20px;
 }
 
+form {
+    border: 5px solid black;
+    background-color: grey;
+    padding: 2%;
+    margin-bottom: 30px;
+
+}
+fieldset {
+    background-color: red;
+}
+
+textarea {
+    vertical-align: top;
+    height: 100px;
+}

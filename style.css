@@ -14,11 +14,19 @@ h1 {
     background-size: 100px;
 }
 
+a {
+    width: auto;
+    font-size: 50px;
+    text-align: center;
+    color: black;
+    padding: 20px;
+    margin-left: 40%;
+}
+
 h2 {
     width: auto;
     text-align: center;
     color: black;
-    
     border: 1px solid grey;
     padding: 20px;
     border-top-right-radius: 20px;
@@ -27,6 +35,10 @@ h2 {
     border-left: 10px solid black;
     border-top: 10px solid red ;
     background-color: red;
+}
+
+p {
+    font-size: 30px;
 }
 
 figure {

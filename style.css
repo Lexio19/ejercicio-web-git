@@ -1,7 +1,8 @@
 h1 {
     width: auto;
     text-align: center;
-    color: red;
+    color: black;
+    font-size: 50px;
     border: 1px solid grey;
     padding: 20px;
     border-top-right-radius: 20px;
@@ -9,4 +10,6 @@ h1 {
     background-color: white;
     border-left: 10px solid black;
     border-top: 10px solid red ;
+    background-image: url(https://ih1.redbubble.net/image.2285489490.1824/st,small,507x507-pad,600x600,f8f8f8.jpg);
+    background-size: 100px;
 }

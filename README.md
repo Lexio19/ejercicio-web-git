@@ -87,3 +87,9 @@ $ git commit -m "Subo el archivo README.md"
 
 ## Mostrar los despliegues `deployments`
 ![Deployments](capturas-pantalla-primer-proyecto-GitHub/deployments-github.png)
+
+
+## Añado al profesor como colaborador a mi proyecto de GitHub
+
+![Nuevo colaborador](capturas-pantalla-primer-proyecto-GitHub/Añado%20al%20profesor%20como%20colaborador.png)
+

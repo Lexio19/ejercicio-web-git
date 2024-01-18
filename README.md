@@ -93,3 +93,7 @@ $ git commit -m "Subo el archivo README.md"
 
 ![Nuevo colaborador](capturas-pantalla-primer-proyecto-GitHub/Añado%20al%20profesor%20como%20colaborador.png)
 
+## Muestra de cómo hago los commits desde la terminal de VSCODE
+
+
+

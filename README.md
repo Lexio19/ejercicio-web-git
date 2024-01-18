@@ -95,5 +95,17 @@ $ git commit -m "Subo el archivo README.md"
 
 ## Muestra de cómo hago los commits desde la terminal de VSCODE
 
+## Git Status desde VSCODE
+
+![Git status desde VSCODE](capturas-pantalla-primer-proyecto-GitHub/git-status-desde-vscode.png)
+
+
+## Git add y git commit desde la terminal VSCODE
+
+![Git add y git commit desde VSCODE](capturas-pantalla-primer-proyecto-GitHub/git-add-y-gitt-commit-vscode.png)
+
+## Git push desde VSCODE
+![Git push desde VSCODE](capturas-pantalla-primer-proyecto-GitHub/git-push-desde-VSCODE.png)
+
 
 

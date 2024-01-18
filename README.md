@@ -123,7 +123,13 @@ $ git commit -m "Subo el archivo README.md"
 
 ![Repositorio GitHub](capturas-pantalla-primer-proyecto-GitHub/repositorio-subido-github.png)
 
+## Capturas de todos los commit que he hecho del trabajo
 
+![Commit1](capturas-pantalla-primer-proyecto-GitHub/commit-1.png)
+
+![Commit2](capturas-pantalla-primer-proyecto-GitHub/commit-2.png)
+
+![Commit3](capturas-pantalla-primer-proyecto-GitHub/commit-3.png)
 
 
 

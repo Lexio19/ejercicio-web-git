@@ -110,6 +110,21 @@ $ git commit -m "Subo el archivo README.md"
 ## Git push desde VSCODE
 ![Git push desde VSCODE](capturas-pantalla-primer-proyecto-GitHub/git-push-desde-VSCODE.png)
 
+## Captura de pantalla de la cabecera de la página web
+
+![Primer vistazo página web](capturas-pantalla-primer-proyecto-GitHub/mostramos-pagina-web.png)
+
+
+## Captura que demuestra que el enlace de la página está en el README.md
+
+![Enlace de página web en README](capturas-pantalla-primer-proyecto-GitHub/pagina-web-readme.png)
+
+## Repositorio subido a mi GitHub
+
+![Repositorio GitHub](capturas-pantalla-primer-proyecto-GitHub/repositorio-subido-github.png)
+
+
+
 
 
 

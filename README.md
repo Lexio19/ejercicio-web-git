@@ -4,7 +4,7 @@
 Alejandro Miras Andújar
 
 ### Enlace a mi primera página web
-`https://lexio19.github.io/ejercicio-web-git/`
+[La manzana mordida](https://lexio19.github.io/ejercicio-web-git/)
 
 ### NOMBRE DEL MÓDULO
 LENGUAJE DE MARCAS Y SISTEMAS DE GESTIÓN DE LA INFORMACIÓN
@@ -15,7 +15,7 @@ IES AGUADULCE
 ### CURSO ESCOLAR
 1º DAW
 
-### Creación del repositorio en nuestro ordenador
+### Creación del repositorio en nuestro ordenador. Consiste en crear la carpeta con mkdir e iniciarla como un repositorio de git con el comando git init en la terminal Git Bash
 
 ~~~
 alex_@LAPTOP-0TBK32BD MINGW64 ~/Desktop/DAW
@@ -33,7 +33,7 @@ $
 
 ~~~
 
-### Creación del commit inicial 
+### Creación del commit inicial. Un commit es una instantánea de tu trabajo que se guarda en el repositorio local hasta que lo decidas subir a GitHub. Nuestro primer commit es el archivo README.md, que es la documentación del proyecto.
 ~~~
 alex_@LAPTOP-0TBK32BD MINGW64 ~/Desktop/DAW/ejercicio-web-git (master)
 $ git status
@@ -72,13 +72,14 @@ $ git commit -m "Subo el archivo README.md"
 ~~~
 
 ### Creación del repositorio en GitHub
+## De esta forma creamos el lugar donde se va a hospedar nuestro proyecto en la misma página de GitHub
 
 ## Se puede ver en la captura de pantalla que se ha creado el repositorio y que es público desde el comienzo
 
 
 ![Captura de pantalla que demuestra la creación del repositorio](capturas-pantalla-primer-proyecto-GitHub/creación%20repositorio%20ejercicio%20web%20git.png)
 
-## Comprobación de que el repositorio se ha subido
+## Comprobación de que el repositorio se ha subido. Cuando creas el repositorio en GitHub, te da una serie de instrucciones que debes escribir en tu terminal para subir la carpeta git que has creado en tu equipo local. Cuando las escribes, tu repositorio se sube a GitHub y todos los cambios que hagas podrás guardarlos en esta web
 
 ![Repositorio subido](capturas-pantalla-primer-proyecto-GitHub/comprobacion%20subido%20github.png)
 
@@ -88,7 +89,7 @@ $ git commit -m "Subo el archivo README.md"
 ![Repositorio configurado](capturas-pantalla-primer-proyecto-GitHub/repositorio%20configurado%20para%20que%20publique%20la%20carpeta%20master.png)
 
 
-## Mostrar los despliegues `deployments`
+## Mostrar los despliegues `deployments`. Los `deployments` muestran el progreso de tu proyecto
 ![Deployments](capturas-pantalla-primer-proyecto-GitHub/deployments-github.png)
 
 
@@ -96,7 +97,7 @@ $ git commit -m "Subo el archivo README.md"
 
 ![Nuevo colaborador](capturas-pantalla-primer-proyecto-GitHub/Añado%20al%20profesor%20como%20colaborador.png)
 
-## Muestra de cómo hago los commits desde la terminal de VSCODE
+## Muestra de cómo hago los commits desde la terminal de VSCODE. Hay dos formas de hacerlo, desde la misma terminal de git bash o con esta terminal integrada en Visual Studio Code. Aquí se muestra cómo se hace desde la segunda, puesto que es más fácil e intuitivo.
 
 ## Git Status desde VSCODE
 
